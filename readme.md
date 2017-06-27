@@ -19,3 +19,5 @@ $testHost = "www.google.com"; - хост
 $testPort = 80; - порт
 
 $timeout = 1; - таймаут
+
+**Добавляем ссылку на файл crontab.exe в автозагрузку**
